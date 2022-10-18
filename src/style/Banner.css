@@ -1,0 +1,14 @@
+.Banner{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    position: fixed;
+    color: black;
+    background-color: yellow;
+    height: 7rem;
+}
+
+.logo{
+    height: 75px;
+    padding: 15px;
+}

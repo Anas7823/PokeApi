@@ -1,0 +1,11 @@
+.Poke{
+    align-items: center;
+    display: block;
+    border: 1px red solid;
+}
+
+.image{
+    border: 1px solid violet;
+    height: 10rem;
+    width: 10rem;
+}
