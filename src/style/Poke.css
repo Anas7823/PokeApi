@@ -1,11 +1,32 @@
 .Poke{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    width: 20rem;
     align-items: center;
     display: block;
+    border-radius: 20px;
     border: 1px red solid;
+    background: #FFC312;
+}
+
+.type{
+
+}
+
+.conteneurImg{
+    margin-bottom: 0%;
+    background-color: #FFC312;
+    border: 1px solid green;
+    border-radius: 20px;
+    height: 15rem;
 }
 
 .image{
+    margin-left: 10%;
+    margin-top: 10%;
+    /* margin-top: 10rem; */
     border: 1px solid violet;
-    height: 10rem;
-    width: 10rem;
+    height: 80%;
+    width: 75%;
 }

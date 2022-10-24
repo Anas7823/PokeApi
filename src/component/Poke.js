@@ -1,4 +1,5 @@
 import '../style/Poke.css';
+import pokemon from '../assets/Noctali-RFVF.png'
 
 function Poke() {
 
@@ -6,8 +7,10 @@ function Poke() {
     <div className='Poke'>
 
         <h1>'Nom du pokemon'</h1>
-        <h5>Type:</h5>
-        <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Pokebola-pokeball-png-0.png/800px-Pokebola-pokeball-png-0.png' alt='_' className='image' />
+        <h3 className='type'>Type:</h3>
+        <div className='conteneurImg'>
+          <img src={pokemon} alt='_' className='image' />
+        </div>
 
     </div>)
 

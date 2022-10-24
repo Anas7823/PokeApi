@@ -1,5 +1,5 @@
 import '../style/Banner.css';
-import Logo from '../assets/Noctali-RFVF.png'
+import Logo from '../assets/pokeball.png'
 
 function Banner() {
 
