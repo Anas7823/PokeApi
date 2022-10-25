@@ -3,7 +3,8 @@
     position: fixed;
     width: 100%;
     bottom: 0;
-    color: yellow;
+    color: #FFC312;
     background-color: black;
     height: 7rem;
+    padding: 5px;
 }

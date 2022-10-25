@@ -1,4 +1,23 @@
+body{
+    background-color: #1B1464;
+}
+
 .Poke{
+    display: flex;
+    margin-top: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid rgb(255, 0, 0);
+    max-width: 65rem;
+}
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+    column-count: 3;
+}
+
+.conteneur{
     margin-left: auto;
     margin-right: auto;
     margin-top: 5%;
@@ -7,7 +26,7 @@
     display: block;
     border-radius: 20px;
     border: 1px red solid;
-    background: #FFC312;
+    background: #F79F1F;
 }
 
 .type{
@@ -15,8 +34,8 @@
 }
 
 .conteneurImg{
+    padding: 5px;
     margin-bottom: 0%;
-    background-color: #FFC312;
     border: 1px solid green;
     border-radius: 20px;
     height: 15rem;
