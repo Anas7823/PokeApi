@@ -4,12 +4,11 @@ import axios from 'axios';
 import React, { useState, useEffect } from 'react';
 
 
-
 function Poke() {
 
   const [url, setUrl] = useState('https://pokeapi.co/api/v2/pokemon')
 
-  
+
 
   return(
     <div className='Poke'>
@@ -47,7 +46,6 @@ function Poke() {
         </td>
       </tr>
     </table>
-
     </div>)
 
 }
