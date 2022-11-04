@@ -7,7 +7,6 @@ body{
     margin-top: 5%;
     margin-left: auto;
     margin-right: auto;
-    border: 1px solid rgb(255, 0, 0);
     max-width: 65rem;
 }
 
@@ -25,7 +24,6 @@ table{
     align-items: center;
     display: block;
     border-radius: 20px;
-    border: 1px red solid;
     background: #F79F1F;
 }
 
@@ -36,7 +34,7 @@ table{
 .conteneurImg{
     padding: 5px;
     margin-bottom: 0%;
-    border: 1px solid green;
+    /* border: 1px solid green; */
     border-radius: 20px;
     height: 15rem;
 }
@@ -45,7 +43,7 @@ table{
     margin-left: 10%;
     margin-top: 10%;
     /* margin-top: 10rem; */
-    border: 1px solid violet;
+    /* border: 1px solid violet; */
     height: 80%;
     width: 75%;
 }

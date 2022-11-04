@@ -1,7 +1,15 @@
 import '../style/Poke.css';
 import pokemon from '../assets/Noctali-RFVF.png'
+import axios from 'axios';
+import React, { useState, useEffect } from 'react';
+
+
 
 function Poke() {
+
+  const [url, setUrl] = useState('https://pokeapi.co/api/v2/pokemon')
+
+  
 
   return(
     <div className='Poke'>
