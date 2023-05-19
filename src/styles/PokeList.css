@@ -1,0 +1,52 @@
+body{
+    background-color: #F6E8EA;
+    color: #22181C;
+    min-height: 100vh;
+    width: 100vw;
+    overflow-x: hidden;
+    justify-content: center;
+}
+.PokeList{
+    background-color: #F6E8EA;
+    color: #22181C;
+}form{
+    width: 75vw;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 25px;
+}img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20vw;
+    height: 35vh;
+}
+.contenaire{
+    margin-left: auto;
+    margin-right: auto;
+    width: 80vw;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.carte{
+    min-height: 40vh;
+    min-width: 14vw;
+    max-height: 40vh;
+    max-width: 14vw;
+    border: 1px solid;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 2%;
+    padding: 20px;
+}h1{
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    background-image: linear-gradient(90deg, #5A0001 27%, rgba(255,99,71,1) 95%);
+}
+.carte img {
+    max-height: 80%;
+    max-width: 100%;
+}
