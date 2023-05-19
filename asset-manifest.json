@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/PokeApi/static/css/main.7a3dde9f.css",
+    "main.js": "/PokeApi/static/js/main.98593a62.js",
+    "static/media/banner.png": "/PokeApi/static/media/banner.4424b7f45dcd93e6fd67.png",
+    "index.html": "/PokeApi/index.html",
+    "main.7a3dde9f.css.map": "/PokeApi/static/css/main.7a3dde9f.css.map",
+    "main.98593a62.js.map": "/PokeApi/static/js/main.98593a62.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a3dde9f.css",
+    "static/js/main.98593a62.js"
+  ]
+}
